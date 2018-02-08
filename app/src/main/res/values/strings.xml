@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CurrentPlace</string>
+    <string name ="default_info_title">default_info_title</string>
+    <string name="default_info_snippet">default_info_snippet</string>
+    <string name="pick_place">pick_place</string>
+    <string name="option_get_place">option_get_place</string>
+</resources>
